@@ -1,0 +1,14 @@
+/* style.sheet */
+
+body {
+    background-color: black; /* changes the whole body background color to black */
+    color: white ; /* changes all body font color to white */
+    text-align: center; /* align all text inside the body to center */
+}
+ul { 
+    list-style-type:none; /* removes the dot from unordered list */
+    display: flex; /* make list in a row */
+    justify-content: center; /* centers the flex boxes */
+    gap: 10px; /* give 10px gap from each flex containers */
+}
+    
